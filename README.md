@@ -1,16 +1,15 @@
-## Hi there 👋
+# Bertrand Facq
 
-<!--
-**bertrandfacq-gif/bertrandfacq-gif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Fintech executive and business builder with experience across consulting, banking and technology.
 
-Here are some ideas to get you started:
+My background includes:
+- Building and scaling teams
+- Leading business and operational transformation
+- Growth and market development
+- International environments across Europe
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Current interests:
+- AI and enterprise adoption
+- Voice and AI agents
+- Technology-enabled business models
+- International growth
